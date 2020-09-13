@@ -1,2 +1,1 @@
-# rsschool-cv
-1st taks
+https://MityaMart.github.io/rsschool-cv/cv
